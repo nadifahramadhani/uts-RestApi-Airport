@@ -168,7 +168,8 @@
 <div class="container">
     <h1>
 
-        <i class="bi bi-airplane-engines-fill " alt="Airport Icon" style="width: 40px; vertical-align: middle; margin-right: 10px;"></i> Daftar Bandara Internasional
+        <i class="bi bi-airplane-engines-fill " alt="Airport Icon" style="width: 40px; vertical-align: middle; margin-right: 10px;"></i> 
+        Daftar Bandara Internasional
     </h1>
     
     <!-- Filter dan Pencarian -->
